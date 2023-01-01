@@ -1,12 +1,18 @@
 # arudinouno-personalfollow-with-rc522
 This file is for Personal follow with RC522 CARD READER
-If you Want Help This Txt File is ready for you. 
+
+If you Want Help This Txt File is ready for you.
+
 This my First project for Github and I know This project is  Amateur
+
 #############################################################
+
 [̲̅P̲̅][̲̅O̲̅][̲̅W̲̅][̲̅E̲̅][̲̅R̲̅][̲̅M̲̅][̲̅A̲̅][̲̅X̲̅]
+
 #############################################################
 
 This file is and variable names supporting  Turkish Language.
+
 Not have yet Support other languages.(Just Turkish)
 
 If you use this proje, you need Arduino UNO and RC522 Card, and just using USB Ports.
